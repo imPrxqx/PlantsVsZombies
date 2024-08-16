@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea8b656e9e60c94b84b30a0a3caed9e, type: 3}
+  m_Name: Pea Shooter
+  m_EditorClassIdentifier: 
+  icon: {fileID: -988535623, guid: 1150e959e46cfb24cbacd1e495757987, type: 3}
+  cost: 100
+  refundCost: 25
+  cooldown: 5
+  plant: {fileID: 5421546509995689189, guid: a003276b96df8034685c38e6f68b539e, type: 3}

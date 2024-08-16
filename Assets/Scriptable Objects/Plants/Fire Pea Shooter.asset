@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea8b656e9e60c94b84b30a0a3caed9e, type: 3}
+  m_Name: Fire Pea Shooter
+  m_EditorClassIdentifier: 
+  icon: {fileID: -172556939, guid: a300e8bc2b624204e9369f059d05e527, type: 3}
+  cost: 150
+  refundCost: 50
+  cooldown: 15
+  plant: {fileID: 4549841462129614083, guid: 5d879f96f35649d4db38b81f1ccb85dd, type: 3}

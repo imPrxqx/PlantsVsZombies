@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eea8b656e9e60c94b84b30a0a3caed9e, type: 3}
+  m_Name: Wall Nut
+  m_EditorClassIdentifier: 
+  icon: {fileID: 546452350, guid: e14afd9315d1a0845a3234ab055c8d26, type: 3}
+  cost: 50
+  refundCost: 15
+  cooldown: 40
+  plant: {fileID: 5762877943208371380, guid: 03fde5ce091194040a5dba310b29c5d5, type: 3}
+  isUpgrade: 0
